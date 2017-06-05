@@ -1,2 +1,2 @@
 # hello-world
-my hello world git repo
+Hi, I like GIS and skiing!  I'm located around Reno/Tahoe.
